@@ -9,7 +9,7 @@ The Space Quiz App was created with the intention of helping users learn about s
 
 
 ### Step 1: Downloading the Application
-Download the latest version of the Space Quiz App from [GitHub](https://github.com/tanyachukau/quiz_app).
+Download the latest version of the Space Quiz App from [GitHub](https://github.com/tanyachukau/Terminal-Application).
 
 
 ### Step 2: Installing the Application
